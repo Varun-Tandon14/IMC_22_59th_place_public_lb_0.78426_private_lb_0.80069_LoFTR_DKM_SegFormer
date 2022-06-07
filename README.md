@@ -15,7 +15,7 @@ describing the projective geometry between the two images.
 For more information about the problem visit this [page](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview/problem-definition).
 
 ## Data
-The train data that was given was part of Phototourism which contained images of different monuments around the world. T
+The train data that was given was part of Phototourism which contained images of different monuments around the world. 
 The poses for each scene were reconstructed via [Structure-from-Motion](https://en.wikipedia.org/wiki/Structure_from_motion), and are only accurate up to a scaling factor. 
 The final test had about 10000 pairs of images of urban scenes.
 Additionally from the test set the organizers provided three set of images. 
