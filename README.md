@@ -30,7 +30,7 @@ Please note at the time of writing this is only place the data is avaliable and 
 said earlier the data maybe realised after tghe workshop.
 
 ## How to run
-1. Please make sure to place the notebook and all the dependencies (including the dataset) in the same folder. T
+1. Please make sure to place the notebook and all the dependencies (including the dataset) in the same folder.
 2. Install all the dependencies.
 3. The reader now have to change the path in the notebook to point to their local folder. (i.e. from kaggle/* to 'local path')
 
