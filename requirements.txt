@@ -1,0 +1,8 @@
+numpy
+opencv
+csv
+torch
+matplotlib
+kornia
+transformers (from huggingface) 
+dkm
