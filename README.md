@@ -35,7 +35,7 @@ said earlier the data maybe realised after tghe workshop.
 3. The reader now have to change the path in the notebook to point to their local folder. (i.e. from kaggle/* to 'local path')
 
 ## Side note- Am I the best?
-Most definitely not. This was my first kaggle competition and my first CV competition. My solution is a but naive and I encourage the readers
+Most definitely not. This was my first kaggle competition and my first CV competition. I encourage the readers
 to go to this [page](https://www.kaggle.com/competitions/image-matching-challenge-2022/discussion?sort=published) and explore discussions about the competition. It is here that you will learn the most. I certainly did. ;) 
 
 # All done. Enjoy the code
