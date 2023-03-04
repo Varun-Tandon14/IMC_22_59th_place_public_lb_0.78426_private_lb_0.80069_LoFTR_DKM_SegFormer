@@ -27,7 +27,7 @@ CVPR 2022 Workshop.
 #### Download the IMC 22 dataset
 Due to large size of the dataset, the readers are requested to download the dataset from this [page.](https://www.kaggle.com/competitions/image-matching-challenge-2022/data)
 Please note at the time of writing this is only place the data is avaliable and you will have to register for the competition on kaggle to view and download the data. As
-said earlier the data maybe realised after tghe workshop.
+said earlier the data maybe realised after the workshop.
 
 ## How to run
 1. Please make sure to place the notebook and all the dependencies (including the dataset) in the same folder.
