@@ -21,7 +21,7 @@ The final test had about 10000 pairs of images of urban scenes.
 Additionally from the test set the organizers provided three set of images. 
 The domain gap between train and test set was the reason that many teams didn't finetune their models on the training set.
 Some teams which did so experienced a decline in performance. 
-As per my knowledge, the organizers will realise the test set after the Image Matching: Local Features & Beyond
+As per my knowledge, the organizers will release the test set after the Image Matching: Local Features & Beyond
 CVPR 2022 Workshop.
 
 #### Download the IMC 22 dataset
